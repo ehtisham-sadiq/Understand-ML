@@ -24,3 +24,6 @@ This is ideal for beginners with no prior machine learning experience or those s
 - Deep learning frameworks (e.g., TensorFlow, PyTorch)
 - Unsupervised learning algorithms (e.g., K-Means clustering)
 - Model evaluation and optimization techniques
+
+## Contributing:
+We welcome contributions to this repository! If you'd like to add new tutorials or improve existing ones, feel free to submit a pull request.
